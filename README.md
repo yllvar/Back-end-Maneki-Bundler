@@ -1,9 +1,5 @@
 # Back-end-Maneki-Bundler
 
-Here's a darkly comedic README.md for your project:
-
-Maneki Bundler: The Cryptic Code of Doom
-Welcome to the Abyss of Blockchain Madness
 In the shadowy depths of the internet, where code whispers to the void, we've crafted something truly sinister yet hilariously delightful. Enter Maneki Bundler - the project where your dreams of blockchain dominance are either realized or shattered into a million digital pieces.
 
 Installation: The Ritual
